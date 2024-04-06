@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="nama">Reza A Mardiansyah</string>
+    <string name="job">Junior Android Developer</string>
+    <string name="no_hp">+62 896-9613-5425</string>
+    <string name="rebar">\@RebarXd</string>
+    <string name="email">reza@android.com</string>
+</resources>
